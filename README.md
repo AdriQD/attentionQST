@@ -12,7 +12,7 @@ The tompgraphy pipeline consist of two main blocks:
 2. post-processing step. After the first reconstruction pass, we train a deep neural network model that learns a noise filtering function for the general space of density matrices (mixed or Haar-pure).
 
 
-All the codes are provided in notebook, with commented markdown blocks.The commented notebooks are thought for being self consistent and indipendent. In this way, we aim at breaking down the whole pipeline in separeted, sorted steps.
+All the codes are provided in notebook, with commented markdown blocks.The commented notebooks are meant to be self consistent and indipendent. In this way, we aim at breaking down the whole pipeline in separeted, sorted steps.
 
 
 ##REPO STRUCTURE
