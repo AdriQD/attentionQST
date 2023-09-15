@@ -22,7 +22,7 @@ All the codes are provided in notebook, with commented markdown blocks.The comme
 ##REPO ORGANISATION
 
 
-1.In the "basis generation" folder, the files with the the different basis and the dual basis used to generate the datasets. in the ./4-qbits folder, the 4 qubits basis and dual basis obtained from tensor products of local SIC-POVM and 4 qubits Pauli operators. In the ./square-root-povm the global square-root POVM of dimension d=3,9.
+1.In the "/basis" folder, the files with the the different basis and the dual basis used to generate the datasets. in the ./4-qbits folder, the 4 qubits basis and dual basis obtained from tensor products of local SIC-POVM and 4 qubits Pauli operators. In the ./square-root-povm the global square-root POVM of dimension d=3,9.
 
 2.In the "pre-processing" folder is loaded data-generation-b.npy file. This file generates the dataset of random density matrices by using the "brute force" Linear Inversion reconstruction function. The LI reconstruction method makes use of the differet dual basis (saved in separeated files) previously generated.  The LI outputs make up for the training/validation/testing datasets for the network numerical experiments. 
 
