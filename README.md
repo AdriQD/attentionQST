@@ -10,7 +10,6 @@ The pipeline consist of two main blocks:
 1. pre-processing. In this step, we generate random density matrices and cwork out the born values, using a pre-selected set of operators. We introduce a statistical approximation inside our data by using multinomial function for the SICS, or Gaussian approximation for the Pauli basis. 
 
 2. post-processing step. After the first sweep of reconstruction, we train a deep neural network model that learns a noise filtering function for the general space of density matrices (mixed or Haar-pure).
-We offer the trained model of our article.
 
 
 All the codes are provided in notebook, with commented markdown blocks.The commented notebooks are thought for being self consistent and indipendent. In this way, we aim at breaking down the whole pipeline in separeted, sorted steps.
