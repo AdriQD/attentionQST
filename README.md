@@ -15,7 +15,7 @@ The pipeline consist of two main blocks:
 All the codes are provided in notebook, with commented markdown blocks.The commented notebooks are thought for being self consistent and indipendent. In this way, we aim at breaking down the whole pipeline in separeted, sorted steps.
 
 
-##REPO ORGANISATION
+##REPO STRUCTURE
 
 
 1.In the "/basis" folder, the files with the the different basis and the dual basis used to generate the datasets. In the ./4-qbits folder, the 4 qubits basis and dual basis obtained from tensor products of local SIC-POVM and 4 qubits Pauli operators. In the ./square-root-povm the global square-root POVM of dimension d=3,9.
