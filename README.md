@@ -22,7 +22,9 @@ All the codes are provided in notebook, with commented markdown blocks.The comme
 
 2.In the "pre-processing" folder is loaded data-generation-b.npy file. This file generates the dataset of random density matrices by using the "brute force" Linear Inversion reconstruction function. The LI reconstruction method makes use of the differet dual basis (saved in separeated files) previously generated.  The LI outputs make up for the training/validation/testing datasets for the network numerical experiments. 
 
+
 3.The "model" folder contains the notebook with the neural network code. Inside the notebook is possible to find explication of the paramater settings used during the different experiments (benchmarking mixed states, OAT reconstruction).
+
 
 (UNDER CONSTRUCTION)
 4.Last, in the "Inference" folder, we file a notebook for model inference, to reproduce the article plots for the OAT states files in Fig.3, the trained model file is also provided. Along with it, the Fisher information plot functions.
