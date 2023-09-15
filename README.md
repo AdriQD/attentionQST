@@ -7,7 +7,7 @@ The deep learning model is a combination of 1D convolutional neural networks and
 
 The tompgraphy pipeline consist of two main blocks:
 
-1. pre-processing. In this step, we first generate  random density matrices,  and then we work out the associated born values, using a pre-selected set of operators (SICs, Pauli). We introduce a statistical approximation inside our data by using multinomial function for the SICS, or Gaussian approximation for the Pauli basis. 
+1. pre-processing. In this step, we first generate  random density matrices,  and then we work out the associated born values, using a pre-selected set of operators (SIC-POVM, Pauli). We introduce a statistical approximation inside our data by using multinomial function for the SIC-POVM, or Gaussian approximation for the Pauli basis. 
 
 2. post-processing step. After the first reconstruction pass, we train a deep neural network model that learns a noise filtering function for the general space of density matrices (mixed or Haar-pure).
 
