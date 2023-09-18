@@ -5,7 +5,7 @@ In this repo are stored the codes used throughout the experiments for the realiz
 In this project we carry out a quantum state tomography task (QST) with an hybrid protocol, that combines a pre-procesing step and a deep learning post-processing step. In this repo, the classical reconstruction method considered are linear inversion (available) and maximum likelihood estimation (available soon).
 The deep learning model is a combination of 1D convolutional neural networks and self-attention transformer. The project goal is doublefold: improve over the classical QST approach, by generating a full-fledge deep learning noise filter function, and second, achieve higher generalization ability, i.e. reducing the training data amount, for the network model (see Fig.2 in the article).
 
-The tompgraphy pipeline consist of two main blocks:
+The tomography pipeline consist of two main blocks:
 
 1. pre-processing. In this step, we first generate  random density matrices,  and then we work out the associated born values, using a pre-selected set of operators (SIC-POVM, Pauli). We introduce a statistical approximation inside our data by using multinomial function for the SIC-POVM, or Gaussian approximation for the Pauli basis. 
 
@@ -15,7 +15,7 @@ The tompgraphy pipeline consist of two main blocks:
 All the codes are provided in notebook, with commented markdown blocks.The commented notebooks are meant to be self consistent and indipendent. In this way, we aim at breaking down the whole pipeline in separeted, sorted steps.
 
 
-##REPO STRUCTURE
+# REPO STRUCTURE
 
 
 1.In the "/basis" folder, the files with the the different basis and the dual basis used to generate the datasets. In the "/4-qubits" folder, the 4 qubits basis and dual basis obtained from tensor products of local SIC-POVM and 4 qubits Pauli operators. In the "/square-root-povm" the global square-root POVM of dimension d=3,9.
@@ -29,3 +29,7 @@ All the codes are provided in notebook, with commented markdown blocks.The comme
 
 (UNDER CONSTRUCTION)
 4.Last, in the "Inference" folder, we file a notebook for model inference, to reproduce the article plots for the OAT states files in Fig.3, the trained model file is also provided. Along with it, the Fisher information plot functions.
+
+<div align="center">
+  <a href="https://github.com/mfts/papermark/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mfts/papermark"></a>
+</div>
