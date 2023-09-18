@@ -46,3 +46,5 @@ All the codes are provided in notebook, with commented markdown blocks.The comme
 ## image 
 
 ![Tux, the Linux mascot](https://github.com/AdriQD/attentionQST/blob/main/image/Roy-Lichtenstein-Hot-dog.jpg)
+
+<amacarone@icfo.net>
