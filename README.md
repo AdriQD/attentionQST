@@ -43,3 +43,6 @@ All the codes are provided in notebook, with commented markdown blocks.The comme
 (UNDER CONSTRUCTION)
 4. Last, in the "Inference" folder, we file a notebook for model inference, to reproduce the article plots for the OAT states files in Fig.3, the trained model file is also provided. Along with it, the Fisher information plot functions.
 
+## image 
+
+![Tux, the Linux mascot](https://github.com/AdriQD/attentionQST/blob/main/image/Roy-Lichtenstein-Hot-dog.jpg)
