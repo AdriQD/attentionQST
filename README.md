@@ -31,7 +31,7 @@ Soon, the inference step, plots function, together with the trained model used f
 
 - [x] The **/model** folder contains the notebook with the neural network code. Inside the notebook is possible to find explication of the paramater settings used during the different experiments (benchmarking mixed states, OAT reconstruction).
 
-- [] (UNDER CONSTRUCTION) Last, in the **Inference** folder, we file a notebook for model inference, to reproduce the article plots for the OAT states files in Fig.3, the trained model file is also provided. Along with it, the Fisher information plot functions.
+- [ ] (UNDER CONSTRUCTION) Last, in the **Inference** folder, we file a notebook for model inference, to reproduce the article plots for the OAT states files in Fig.3, the trained model file is also provided. Along with it, the Fisher information plot functions.
 
 ## Dependecies
 
