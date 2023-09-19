@@ -44,4 +44,5 @@ Soon, the inference step, plots function, together with the trained model used f
 >(virtualenv or conda installation command: pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117)
 
 - matplotlib > 3.0
+  
 <amacarone@icfo.net>
