@@ -1,6 +1,6 @@
 # attentionQST
 
-This repo contains all the codes used throughout the experiments for the realization of the article "Enhancing general quantum state tomography via attention-based neural networks". Link at: 
+This repo contains all the codes used in the numerical experiments for the article "Enhancing general quantum state tomography via attention-based neural networks". 
 
 In this project, we carry out a quantum state tomography task (QST) with an hybrid protocol, that combines a pre-procesing step and a deep learning post-processing step. 
 
