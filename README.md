@@ -40,11 +40,8 @@ All the codes are provided in notebook, with commented markdown blocks.The comme
 3. The **/model** folder contains the notebook with the neural network code. Inside the notebook is possible to find explication of the paramater settings used during the different experiments (benchmarking mixed states, OAT reconstruction).
 
 
-(UNDER CONSTRUCTION)
-4. Last, in the **Inference** folder, we file a notebook for model inference, to reproduce the article plots for the OAT states files in Fig.3, the trained model file is also provided. Along with it, the Fisher information plot functions.
 
-## image 
+4. (UNDER CONSTRUCTION) Last, in the **Inference** folder, we file a notebook for model inference, to reproduce the article plots for the OAT states files in Fig.3, the trained model file is also provided. Along with it, the Fisher information plot functions.
 
-![Tux, the Linux mascot](https://github.com/AdriQD/attentionQST/blob/main/image/Roy-Lichtenstein-Hot-dog.jpg)
 
 <amacarone@icfo.net>
