@@ -18,7 +18,7 @@ The tomography pipeline consist of two main blocks:
 The deep learning model is a combination of 1D convolutional neural networks and self-attention transformer. The project goal is doublefold: improve over the classical QST approach, by generating a full-fledge deep learning noise filter function, and second, achieve higher generalization ability, i.e. reducing the training data amount, for the network model (see Fig.2 in the article).
 
 All the codes are provided in notebook, with commented markdown blocks.The commented notebooks are meant to be self consistent and indipendent, in this way, help using them.
-Soon, the inference step, plots function, together with the article trianed model will be uploaded.
+Soon, the inference step, plots function, together with the trained model used for the article, will be uploaded.
 
 ## Dependecies
 
