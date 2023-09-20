@@ -1,8 +1,13 @@
-@article{palmieri2023enhancing,
-      title={Enhancing quantum state tomography via resource-efficient attention-based neural networks}, 
-      author={Adriano Macarone Palmieri and Guillem Muller-Rigat and Anubhav Kumar Srivastava and Maciej Lewenstein and Grzegorz Rajchel-Mieldzioc and Marcin Płodzien},
-      year={2023},
-      eprint={2309.10616},
-      archivePrefix={arXiv},
-      primaryClass={quant-ph}
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Adriano"
+  given-names: "Macarone Palmieri"
+- family-names: "Guillem"
+  given-names: "Muller Rigat"
+
+title: "Enhancing quantum state tomography via resource-efficient attention-based neural networks"
+doi: 	arXiv:2309.10616 
+date-released: 2017-12-18
+url: "https://doi.org/10.48550/arXiv.2309.10616"
+
