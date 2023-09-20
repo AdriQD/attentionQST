@@ -42,7 +42,7 @@ Soon, the inference step, plots function, together with the trained model used f
 - qutip 4.7.0
 - cuda 11.7 
 >(virtualenv or conda installation command: pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117)
-> for model of small dimension, like $dim \mathbb{H}\sim 10$, cpu will suffices.
+> for model of small dimension, like ${\rm dim}(\mathcal{H})\sim 10$, cpu will suffices.
 
 - matplotlib > 3.0
   
