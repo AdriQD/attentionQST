@@ -1,14 +1,28 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Bot"
-  given-names: "Hew"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Adriano"
+  given-names: "Macarone Palmieri"
+  
+- family-names: "G &#252 illem"
+  given-names: "Muller Rigat"
+
+- family-names: "Anubha Kumar"
+  given-names: "Srivastava"
+
+- family-names: "Maciej"
+  given-names: "Lewenstein"
+
+- family-names: "Grzegorz"
+  given-names: "Rajchel Mieldzioc"
+
+- family-names: "Marcin"
+  given-names: "Plodzien"
+  
 title: "My Research Software"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2017-12-18
-url: "https://github.com/github-linguist/linguist"
+version: 1
+doi: 
+https://doi.org/10.48550/arXiv.2309.10616
+date: 2023-09-20
+url: "https://arxiv.org/abs/2309.10616"
+
