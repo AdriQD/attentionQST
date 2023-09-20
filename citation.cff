@@ -1,28 +1,7 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Adriano"
-  given-names: "Macarone Palmieri"
-  
-- family-names: "G &#252 illem"
-  given-names: "Muller Rigat"
-
-- family-names: "Anubha Kumar"
-  given-names: "Srivastava"
-
-- family-names: "Maciej"
-  given-names: "Lewenstein"
-
-- family-names: "Grzegorz"
-  given-names: "Rajchel Mieldzioc"
-
-- family-names: "Marcin"
-  given-names: "Plodzien"
-  
-title: "Enhancing quantum state tomography via resource-efficient attention-based neural networks"
-version: 1
-doi: 
-https://doi.org/10.48550/arXiv.2309.10616
-date: 2023-09-20
-url: "https://arxiv.org/abs/2309.10616"
-
+@misc{palmieri2023enhancing,
+      title={Enhancing quantum state tomography via resource-efficient attention-based neural networks}, 
+      author={Adriano Macarone Palmieri and Guillem Müller-Rigat and Anubhav Kumar Srivastava and Maciej Lewenstein and Grzegorz Rajchel-Mieldzioć and Marcin Płodzień},
+      year={2023},
+      eprint={2309.10616},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph}}
