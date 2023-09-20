@@ -5,6 +5,14 @@ authors:
   given-names: "Macarone Palmieri"
 - family-names: "Guillem"
   given-names: "Muller Rigat"
+- family-names: "Anubhav Kumar"
+  given-names: "Srivastava"
+- family-names: "Maciej"
+  given-names: "Lewenstein"
+- family-names: "Grzegorz"
+  given-names: "Rajchel-Mieldoc"
+- family-names: "Marcin"
+  given-names: "Plodzien"
 
 title: "Enhancing quantum state tomography via resource-efficient attention-based neural networks"
 doi: 	arXiv:2309.10616 
