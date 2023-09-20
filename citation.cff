@@ -1,7 +1,8 @@
-@misc{palmieri2023enhancing,
+@article{palmieri2023enhancing,
       title={Enhancing quantum state tomography via resource-efficient attention-based neural networks}, 
       author={Adriano Macarone Palmieri and Guillem Müller-Rigat and Anubhav Kumar Srivastava and Maciej Lewenstein and Grzegorz Rajchel-Mieldzioć and Marcin Płodzień},
       year={2023},
       eprint={2309.10616},
       archivePrefix={arXiv},
-      primaryClass={quant-ph}}
+      primaryClass={quant-ph}
+}
