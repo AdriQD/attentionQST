@@ -33,6 +33,8 @@ Soon, the inference step, plots function, together with the trained model used f
 
 - [x] In the **/Inference** folder, it is possible to find the pre-trianed model used to generate the plots in Fig.3, and the data for panel (a),(c) thereof.
 
+- [x] In **/OOD plots** the source code used to prepare and generate the plots for the complete OOD test, where sampling, depolarizatoin, and measurement noise are considered altogether.
+
 ## Dependecies
 
 - Jupyter notebook => 4.6.3 
