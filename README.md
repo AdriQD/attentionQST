@@ -33,7 +33,7 @@ Soon, the inference step, plots function, together with the trained model used f
 
 - [x] In the **/Inference** folder, it is possible to find the pre-trianed model used to generate the plots in Fig.3, and the data for panel (a),(c) thereof.
 
-- [x] In **/OOD plots** the source code used to prepare and generate the plots for the complete OOD test, where sampling, depolarizatoin, and measurement noise are considered altogether.
+- [x] In **/OOD plots** the source code used to prepare and generate the plots for the complete OOD test, where sampling, depolarizatoin, and measurement noise are considered altogether. Inside, a folder "PRRFig3-Data" with the data of the plot is available for benchmarking and reproduction is available.
 
 ## Dependecies
 
